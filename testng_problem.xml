@@ -7,21 +7,25 @@
 			<class name="com.core.shijianclcase.WenTiClCase01" />
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase02" verbose="10"><!--2、网格长登录，上报问题，完成之后，点击暂存(完整信息)。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase02" />
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase03" verbose="10"><!--3、网格长登录，上报问题，完成之后，点击暂存(完整信息)，点击编辑，自结案，再已处理问题页面验证是否自结案成功。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase03" />
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase04" verbose="10"><!--4、网格长登录，上报问题，完成之后，点击“结案”。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase04" />
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase05" verbose="10"><!--5、网格长上报提交-镇街中心派发给职能办，片区长，网格长-职能办，片区长，网格长反馈-镇街中心处理-结案。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase05">
@@ -36,6 +40,7 @@
 			</class>
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase06" verbose="10"><!-- 6、网格长上报提交-镇街中心派发给职能办，片区长，网格长-职能办，片区长，网格长反馈-重新派发-网格长核查-镇街中心处理-结案。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase06">
@@ -56,16 +61,19 @@
 			</class>
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase07" verbose="10"><!--7、镇街中心登记-派发职能办，片区长，网格长-职能办，片区长，网格长反馈-镇街中心处理-结案。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase07" />
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase08" verbose="10"><!-- 8、市级中心登记-派发镇街和市职能办，市职能办进行反馈，镇街中心进行反馈，义乌中心处理，并结案。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase08" />
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase09" verbose="10"><!-- 9、市级中心登记-派发镇街和市职能办，市职能办进行反馈，镇街中心可进行派发和反馈。镇街中心派发至片区，职能办，网格，并结案。义乌中心处理，并结案。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase09">
@@ -83,6 +91,7 @@
 			</class>
 		</classes>
 	</test>
+	
 	<test name="WenTiClCase10" verbose="10"><!--10、 市级中心登记-派发镇街和市职能办，市职能办进行反馈，镇街中心进行反馈，义乌中心进行处理，并重新派发，结案。 -->
 		<classes>
 			<class name="com.core.shijianclcase.WenTiClCase10">
