@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="23" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sjclCase" duration-ms="866636" started-at="2018-01-05T02:59:41Z" finished-at="2018-01-05T03:14:08Z">
+    <groups>
+    </groups>
+    <test name="WenTiClCase05" duration-ms="238753" started-at="2018-01-05T02:59:41Z" finished-at="2018-01-05T03:03:40Z">
+      <class name="com.core.shijianclcase.WenTiClCase05">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.core.shijianclcase.WenTiClCase05@3bfdc050]" name="beforeTest" is-config="true" duration-ms="10212" started-at="2018-01-05T10:59:41Z" finished-at="2018-01-05T10:59:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="wgz1()[pri:0, instance:com.core.shijianclcase.WenTiClCase05@3bfdc050]" name="wgz1" duration-ms="53474" started-at="2018-01-05T10:59:51Z" finished-at="2018-01-05T11:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wgz1 -->
+        <test-method status="PASS" signature="zjzx1()[pri:0, instance:com.core.shijianclcase.WenTiClCase05@3bfdc050]" name="zjzx1" duration-ms="32800" started-at="2018-01-05T11:00:45Z" finished-at="2018-01-05T11:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zjzx1 -->
+        <test-method status="PASS" signature="pqz1()[pri:0, instance:com.core.shijianclcase.WenTiClCase05@3bfdc050]" name="pqz1" duration-ms="26506" started-at="2018-01-05T11:01:18Z" finished-at="2018-01-05T11:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pqz1 -->
+        <test-method status="PASS" signature="znb1()[pri:0, instance:com.core.shijianclcase.WenTiClCase05@3bfdc050]" name="znb1" duration-ms="26737" started-at="2018-01-05T11:01:44Z" finished-at="2018-01-05T11:02:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- znb1 -->
+        <test-method status="PASS" signature="wgz2()[pri:0, instance:com.core.shijianclcase.WenTiClCase05@3bfdc050]" name="wgz2" duration-ms="44009" started-at="2018-01-05T11:02:11Z" finished-at="2018-01-05T11:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wgz2 -->
+        <test-method status="PASS" signature="zjzx2()[pri:0, instance:com.core.shijianclcase.WenTiClCase05@3bfdc050]" name="zjzx2" duration-ms="44900" started-at="2018-01-05T11:02:55Z" finished-at="2018-01-05T11:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zjzx2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.core.shijianclcase.WenTiClCase05@3bfdc050]" name="afterTest" is-config="true" duration-ms="87" started-at="2018-01-05T11:03:40Z" finished-at="2018-01-05T11:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.core.shijianclcase.WenTiClCase05 -->
+    </test> <!-- WenTiClCase05 -->
+    <test name="WenTiClCase06" duration-ms="435337" started-at="2018-01-05T03:03:40Z" finished-at="2018-01-05T03:10:55Z">
+      <class name="com.core.shijianclcase.WenTiClCase06">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="beforeTest" is-config="true" duration-ms="7425" started-at="2018-01-05T11:03:40Z" finished-at="2018-01-05T11:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="wgzShangBao()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="wgzShangBao" duration-ms="52991" started-at="2018-01-05T11:03:47Z" finished-at="2018-01-05T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wgzShangBao -->
+        <test-method status="PASS" signature="zjzxPaiFa()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="zjzxPaiFa" duration-ms="31476" started-at="2018-01-05T11:04:40Z" finished-at="2018-01-05T11:05:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zjzxPaiFa -->
+        <test-method status="PASS" signature="pqzChuLi()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="pqzChuLi" duration-ms="25829" started-at="2018-01-05T11:05:12Z" finished-at="2018-01-05T11:05:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pqzChuLi -->
+        <test-method status="PASS" signature="znbChuLi()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="znbChuLi" duration-ms="24588" started-at="2018-01-05T11:05:38Z" finished-at="2018-01-05T11:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- znbChuLi -->
+        <test-method status="PASS" signature="wgzChuLi()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="wgzChuLi" duration-ms="43979" started-at="2018-01-05T11:06:02Z" finished-at="2018-01-05T11:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wgzChuLi -->
+        <test-method status="PASS" signature="zjzxcxpf()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="zjzxcxpf" duration-ms="34159" started-at="2018-01-05T11:06:46Z" finished-at="2018-01-05T11:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zjzxcxpf -->
+        <test-method status="PASS" signature="pqzChuLi2()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="pqzChuLi2" duration-ms="25545" started-at="2018-01-05T11:07:20Z" finished-at="2018-01-05T11:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pqzChuLi2 -->
+        <test-method status="PASS" signature="znbChuLi2()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="znbChuLi2" duration-ms="24723" started-at="2018-01-05T11:07:46Z" finished-at="2018-01-05T11:08:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- znbChuLi2 -->
+        <test-method status="PASS" signature="wgzChuLi2()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="wgzChuLi2" duration-ms="44263" started-at="2018-01-05T11:08:11Z" finished-at="2018-01-05T11:08:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wgzChuLi2 -->
+        <test-method status="PASS" signature="zjzxhc()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="zjzxhc" duration-ms="31997" started-at="2018-01-05T11:08:55Z" finished-at="2018-01-05T11:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zjzxhc -->
+        <test-method status="PASS" signature="hc()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="hc" duration-ms="44240" started-at="2018-01-05T11:09:27Z" finished-at="2018-01-05T11:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hc -->
+        <test-method status="PASS" signature="zjzxja()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="zjzxja" duration-ms="43591" started-at="2018-01-05T11:10:11Z" finished-at="2018-01-05T11:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zjzxja -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.core.shijianclcase.WenTiClCase06@3abbfa04]" name="afterTest" is-config="true" duration-ms="513" started-at="2018-01-05T11:10:55Z" finished-at="2018-01-05T11:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.core.shijianclcase.WenTiClCase06 -->
+    </test> <!-- WenTiClCase06 -->
+    <test name="WenTiClCase07" duration-ms="192484" started-at="2018-01-05T03:10:55Z" finished-at="2018-01-05T03:14:08Z">
+      <class name="com.core.shijianclcase.WenTiClCase07">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.core.shijianclcase.WenTiClCase07@4f7d0008]" name="beforeTest" is-config="true" duration-ms="8377" started-at="2018-01-05T11:10:55Z" finished-at="2018-01-05T11:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="zjzxDj()[pri:0, instance:com.core.shijianclcase.WenTiClCase07@4f7d0008]" name="zjzxDj" duration-ms="40196" started-at="2018-01-05T11:11:04Z" finished-at="2018-01-05T11:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zjzxDj -->
+        <test-method status="PASS" signature="pqz1()[pri:0, instance:com.core.shijianclcase.WenTiClCase07@4f7d0008]" name="pqz1" duration-ms="24806" started-at="2018-01-05T11:11:44Z" depends-on-methods="com.core.shijianclcase.WenTiClCase07.zjzxDj" finished-at="2018-01-05T11:12:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pqz1 -->
+        <test-method status="PASS" signature="znb1()[pri:0, instance:com.core.shijianclcase.WenTiClCase07@4f7d0008]" name="znb1" duration-ms="24553" started-at="2018-01-05T11:12:09Z" depends-on-methods="com.core.shijianclcase.WenTiClCase07.pqz1" finished-at="2018-01-05T11:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- znb1 -->
+        <test-method status="PASS" signature="wgz2()[pri:0, instance:com.core.shijianclcase.WenTiClCase07@4f7d0008]" name="wgz2" duration-ms="43968" started-at="2018-01-05T11:12:33Z" depends-on-methods="com.core.shijianclcase.WenTiClCase07.znb1" finished-at="2018-01-05T11:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wgz2 -->
+        <test-method status="PASS" signature="zjzx2()[pri:0, instance:com.core.shijianclcase.WenTiClCase07@4f7d0008]" name="zjzx2" duration-ms="48269" started-at="2018-01-05T11:13:17Z" depends-on-methods="com.core.shijianclcase.WenTiClCase07.wgz2" finished-at="2018-01-05T11:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zjzx2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.core.shijianclcase.WenTiClCase07@4f7d0008]" name="afterTest" is-config="true" duration-ms="2309" started-at="2018-01-05T11:14:05Z" finished-at="2018-01-05T11:14:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.core.shijianclcase.WenTiClCase07 -->
+    </test> <!-- WenTiClCase07 -->
+  </suite> <!-- sjclCase -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [renwuclcase]" skipfailedinvocationcounts="true">
+  <test name="JiChuXinXiCase01(failed)">
+    <classes>
+      <class name="com.core.jichuxxcase.HuJiRenKouCase01">
+        <methods>
+          <include name="EditPeople"/>
+          <include name="ChaKanPeople"/>
+          <include name="AddPeople"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.core.jichuxxcase.HuJiRenKouCase01 -->
+    </classes>
+  </test> <!-- JiChuXinXiCase01(failed) -->
+</suite> <!-- Failed suite [renwuclcase] -->
